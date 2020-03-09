@@ -7,8 +7,9 @@ This is the GitHub structure for portfolio assignment 1
 
 + The development branch combines front-end and back-end of the app
 
-+ The frontend app merges all front-end and UI related functions
++ The frontend merges all front-end and UI related functions
 
-+ The frontend app merges all back-end related functionalities
++ The frontend merges all back-end related functionalities
 
++ The hotfix branch are used for all occurring errors on the main branch. This needs to be fixed immediately
 
